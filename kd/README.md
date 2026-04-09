@@ -1,4 +1,4 @@
-# MO§ES™ / CIVITAE
+# MO§ES™ / SIGNOMY
 
 **Commitment has physics. Now it has an operating system.**
 
@@ -9,6 +9,8 @@
 **Commitment is conserved under transformation when enforcement holds. MO§ES™ is the architecture that holds it.**
 
 **Not guardrails. Not heuristics. A conservation law.**
+
+---
 
 ![Status](https://img.shields.io/badge/Status-Funding_Stage-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Live-brightgreen?style=flat-square) ![NAICS](https://img.shields.io/badge/NAICS-511210_Software_Publishers-lightgrey?style=flat-square) ![Patent](https://img.shields.io/badge/Patent-4_Patents_Pending-orange?style=flat-square) ![Trademark](https://img.shields.io/badge/Trademark-MO§ES™_IC_042-purple?style=flat-square) ![Preprint](https://img.shields.io/badge/Preprint-Zenodo_DOI-green?style=flat-square) ![License](https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat-square)
 
@@ -70,7 +72,7 @@ This repo is structured for a 10-minute read or a deep dive. Start here, follow 
 | 7 | [Competitive Landscape](COMPARABLES.md) | Side-by-side comparison tables against funded competitors |
 | 8 | [Composite Score](COMP-SCORE.md) | Honest self-assessment with dimension-by-dimension scoring |
 | 9 | [5 Problems We Solve](PROBLEMS.md) | Liability, auditability, regulatory, trust at scale, signal degradation |
-| — | [Investor Architecture (Interactive)](architecture.html) | Seven-ring table + ring diagram — download and open in browser |
+| — | [Investor Architecture (Interactive)](https://sunrisesillneversee.github.io/Mos2es_Signomy/architecture.html) | Seven-ring table + ring diagram — live in browser |
 
 ---
 
